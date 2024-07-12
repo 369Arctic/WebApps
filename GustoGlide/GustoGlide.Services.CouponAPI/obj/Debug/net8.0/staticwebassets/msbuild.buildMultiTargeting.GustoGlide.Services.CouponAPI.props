@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GustoGlide.Services.CouponAPI.props" />
+</Project>
