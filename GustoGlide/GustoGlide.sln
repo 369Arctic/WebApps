@@ -11,7 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{B6
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{8B6CC004-5BA6-4EE8-A8B5-671916AA2A10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GustoGlide.Services.CouponAPI", "GustoGlide.Services.CouponAPI\GustoGlide.Services.CouponAPI.csproj", "{877729B7-3398-41A8-BF8D-A3AE6A11439A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GustoGlide.Services.CouponAPI", "GustoGlide.Services.CouponAPI\GustoGlide.Services.CouponAPI.csproj", "{877729B7-3398-41A8-BF8D-A3AE6A11439A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GustoGlide.Web", "GustoGlide.Web\GustoGlide.Web.csproj", "{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +25,17 @@ Global
 		{877729B7-3398-41A8-BF8D-A3AE6A11439A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{877729B7-3398-41A8-BF8D-A3AE6A11439A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{877729B7-3398-41A8-BF8D-A3AE6A11439A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{877729B7-3398-41A8-BF8D-A3AE6A11439A} = {14215067-C344-4203-A1F5-B3A15F25AE50}
+		{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319} = {B6023EF8-9A76-4F4C-9D93-29C72E8CC65B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {19C29FD1-94EC-4934-A1F4-3B94F5A30340}
