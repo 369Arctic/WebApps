@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "D:\\Git\\WebApps\\GustoGlide\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.web\\views\\coupon\\couponindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|solutionrelative:gustoglide.web\\views\\coupon\\couponindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|solutionrelative:gustoglide.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.web\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|solutionrelative:gustoglide.web\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{877729B7-3398-41A8-BF8D-A3AE6A11439A}|GustoGlide.Services.CouponAPI\\GustoGlide.Services.CouponAPI.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{877729B7-3398-41A8-BF8D-A3AE6A11439A}|GustoGlide.Services.CouponAPI\\GustoGlide.Services.CouponAPI.csproj|solutionrelative:gustoglide.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.web\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|solutionrelative:gustoglide.web\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|solutionrelative:gustoglide.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|solutionrelative:gustoglide.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{D40059C8-3F08-4BBE-92B3-78E3361C7F5A}|GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.services.authapi\\gustoglide.services.authapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D40059C8-3F08-4BBE-92B3-78E3361C7F5A}|GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj|solutionrelative:gustoglide.services.authapi\\gustoglide.services.authapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,92 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CouponIndex.cshtml",
-              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Views\\Coupon\\CouponIndex.cshtml",
-              "RelativeDocumentMoniker": "GustoGlide.Web\\Views\\Coupon\\CouponIndex.cshtml",
-              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Views\\Coupon\\CouponIndex.cshtml",
-              "RelativeToolTip": "GustoGlide.Web\\Views\\Coupon\\CouponIndex.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-13T09:45:32.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CouponService.cs",
-              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Service\\CouponService.cs",
-              "RelativeDocumentMoniker": "GustoGlide.Web\\Service\\CouponService.cs",
-              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Service\\CouponService.cs",
-              "RelativeToolTip": "GustoGlide.Web\\Service\\CouponService.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowCgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T09:39:30.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CouponController.cs",
-              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Controllers\\CouponController.cs",
-              "RelativeDocumentMoniker": "GustoGlide.Web\\Controllers\\CouponController.cs",
-              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Controllers\\CouponController.cs",
-              "RelativeToolTip": "GustoGlide.Web\\Controllers\\CouponController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAUwA8AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T09:22:41.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CouponAPIController.cs",
-              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "RelativeDocumentMoniker": "GustoGlide.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "RelativeToolTip": "GustoGlide.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T09:40:46.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "GustoGlide.Web\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "GustoGlide.Web\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-13T08:59:18.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "GustoGlide.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "GustoGlide.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-13T08:56:23.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "GustoGlide.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeToolTip": "GustoGlide.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-13T08:55:42.867Z",
+              "Title": "GustoGlide.Services.AuthAPI",
+              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj",
+              "RelativeDocumentMoniker": "GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj",
+              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj",
+              "RelativeToolTip": "GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T10:49:59.842Z",
               "EditorCaption": ""
             }
           ]
