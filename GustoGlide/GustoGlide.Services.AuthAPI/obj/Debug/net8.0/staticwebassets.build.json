@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "11PvBfDyWhGY7QUd0PP7ZOFJnXffDKG04AvpZjwD5yc=",
+  "Source": "GustoGlide.Services.AuthAPI",
+  "BasePath": "_content/GustoGlide.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

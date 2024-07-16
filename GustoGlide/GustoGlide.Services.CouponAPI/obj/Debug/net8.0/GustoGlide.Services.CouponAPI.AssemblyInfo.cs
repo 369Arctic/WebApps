@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GustoGlide.Services.CouponAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3aa45a40fa13b34409465e8dc8510cdb11eece8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af1fd974984b59813c35c4bc241c7671f8e59d3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GustoGlide.Services.CouponAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GustoGlide.Services.CouponAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

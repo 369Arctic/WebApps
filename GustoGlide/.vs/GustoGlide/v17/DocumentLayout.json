@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Git\\WebApps\\GustoGlide\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D40059C8-3F08-4BBE-92B3-78E3361C7F5A}|GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.services.authapi\\gustoglide.services.authapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D40059C8-3F08-4BBE-92B3-78E3361C7F5A}|GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj|solutionrelative:gustoglide.services.authapi\\gustoglide.services.authapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D40059C8-3F08-4BBE-92B3-78E3361C7F5A}|GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40059C8-3F08-4BBE-92B3-78E3361C7F5A}|GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj|solutionrelative:gustoglide.services.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40059C8-3F08-4BBE-92B3-78E3361C7F5A}|GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.services.authapi\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40059C8-3F08-4BBE-92B3-78E3361C7F5A}|GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj|solutionrelative:gustoglide.services.authapi\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40059C8-3F08-4BBE-92B3-78E3361C7F5A}|GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40059C8-3F08-4BBE-92B3-78E3361C7F5A}|GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj|solutionrelative:gustoglide.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40059C8-3F08-4BBE-92B3-78E3361C7F5A}|GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.services.authapi\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40059C8-3F08-4BBE-92B3-78E3361C7F5A}|GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj|solutionrelative:gustoglide.services.authapi\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationRequestDto.cs",
+              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "RelativeDocumentMoniker": "GustoGlide.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "RelativeToolTip": "GustoGlide.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:50:54.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GustoGlide.Services.AuthAPI",
-              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj",
-              "RelativeDocumentMoniker": "GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj",
-              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj",
-              "RelativeToolTip": "GustoGlide.Services.AuthAPI\\GustoGlide.Services.AuthAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-14T10:49:59.842Z",
+              "Title": "AuthAPIController.cs",
+              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeDocumentMoniker": "GustoGlide.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeToolTip": "GustoGlide.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:50:14.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "GustoGlide.Services.AuthAPI\\Service\\AuthService.cs",
+              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeToolTip": "GustoGlide.Services.AuthAPI\\Service\\AuthService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:43:50.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "GustoGlide.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
+              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
+              "RelativeToolTip": "GustoGlide.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:43:09.199Z",
               "EditorCaption": ""
             }
           ]
