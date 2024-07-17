@@ -15,7 +15,7 @@ namespace GustoGlide.Web.Service
             _httpClientFactory = httpClientFactory;
         }
 
-        public async Task<ResponseDto?> SendAsync(RequestDto requestDto) // 1.31.41 закончилось. пересмотреть
+        public async Task<ResponseDto?> SendAsync(RequestDto requestDto) // 1.31.41 
         {
             try
             {

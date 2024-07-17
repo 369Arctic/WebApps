@@ -16,7 +16,7 @@ namespace GustoGlide.Services.AuthAPI.Service
             _jwtOptions = jwtOptions.Value;
         }
 
-        public string GenerateToken(ApplicationUser applicationUser)
+        public string GenerateToken(ApplicationUser applicationUser, IEnumerable<string> roles)
         {
             var tokenHandler = new JwtSecurityTokenHandler();
 
@@ -28,6 +28,8 @@ namespace GustoGlide.Services.AuthAPI.Service
                 new Claim(JwtRegisteredClaimNames.Sub, applicationUser.Id),
                 new Claim(JwtRegisteredClaimNames.Name, applicationUser.UserName.ToString())
             };
+
+            claimsList.AddRange(roles.Select(role => new Claim(ClaimTypes.Role, role)));
 
             // описывает и имеет конфигурацию токена
             var tokenDescriptor = new SecurityTokenDescriptor

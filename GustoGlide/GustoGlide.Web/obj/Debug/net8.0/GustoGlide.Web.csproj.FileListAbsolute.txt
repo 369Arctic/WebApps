@@ -32,3 +32,8 @@ D:\Git\WebApps\GustoGlide\GustoGlide.Web\obj\Debug\net8.0\refint\GustoGlide.Web.
 D:\Git\WebApps\GustoGlide\GustoGlide.Web\obj\Debug\net8.0\GustoGlide.Web.pdb
 D:\Git\WebApps\GustoGlide\GustoGlide.Web\obj\Debug\net8.0\GustoGlide.Web.genruntimeconfig.cache
 D:\Git\WebApps\GustoGlide\GustoGlide.Web\obj\Debug\net8.0\ref\GustoGlide.Web.dll
+D:\Git\WebApps\GustoGlide\GustoGlide.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Git\WebApps\GustoGlide\GustoGlide.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Git\WebApps\GustoGlide\GustoGlide.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Git\WebApps\GustoGlide\GustoGlide.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Git\WebApps\GustoGlide\GustoGlide.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

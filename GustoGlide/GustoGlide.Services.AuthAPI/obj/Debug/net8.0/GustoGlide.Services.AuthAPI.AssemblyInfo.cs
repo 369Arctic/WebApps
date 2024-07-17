@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GustoGlide.Services.AuthAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af1fd974984b59813c35c4bc241c7671f8e59d3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54f0ca7fae0cec84d2c70c0d11104e227f6bdd54")]
 [assembly: System.Reflection.AssemblyProductAttribute("GustoGlide.Services.AuthAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GustoGlide.Services.AuthAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

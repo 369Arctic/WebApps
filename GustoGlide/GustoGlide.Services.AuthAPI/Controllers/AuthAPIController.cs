@@ -32,14 +32,14 @@ namespace GustoGlide.Services.AuthAPI.Controllers
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginRequestDto model)
         {
-            var loginRespoonse = await _authService.Login(model);
-            if(loginRespoonse.User == null)
+            var loginResponse = await _authService.Login(model);
+            if(loginResponse.User == null)
             {
                 _responseDto.IsSuccess = false;
                 _responseDto.Message = "Username or password incorrect";
                 return BadRequest(_responseDto);
             }
-            _responseDto.Result = loginRespoonse;
+            _responseDto.Result = loginResponse;
             return Ok(_responseDto);
         }
 
