@@ -10,12 +10,14 @@ namespace GustoGlide.Web.Service
     public class BaseService : IBaseService
     {
         private readonly IHttpClientFactory _httpClientFactory;
-        public BaseService(IHttpClientFactory httpClientFactory)
+        private readonly ITokenProvider _tokenProvider;
+        public BaseService(IHttpClientFactory httpClientFactory, ITokenProvider tokenProvider)
         {
             _httpClientFactory = httpClientFactory;
+            _tokenProvider = tokenProvider;
         }
 
-        public async Task<ResponseDto?> SendAsync(RequestDto requestDto) // 1.31.41 
+        public async Task<ResponseDto?> SendAsync(RequestDto requestDto, bool withBearer = true) // 1.31.41 
         {
             try
             {
@@ -23,6 +25,13 @@ namespace GustoGlide.Web.Service
                 HttpRequestMessage message = new();
                 message.Headers.Add("Accept", "application/json");
                 message.RequestUri = new Uri(requestDto.Url);
+
+                if (withBearer)
+                {
+                    var token = _tokenProvider.GetToken();
+                    message.Headers.Add("Authorization", $"Bearer {token}");
+                }
+
 
                 if (requestDto.Data != null) // сериализация данных 
                 {

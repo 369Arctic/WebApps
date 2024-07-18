@@ -29,7 +29,7 @@ namespace GustoGlide.Web.Service
                 ApiType = StaticDetails.ApiType.POST,
                 Data = loginRequestDto,
                 Url = StaticDetails.AuthApiBase + "/api/auth/login"
-            });
+            }, withBearer: false);
         }
 
         public async Task<ResponseDto?> RegisterAsync(RegistrationRequestDto registrationRequestDto)
@@ -39,7 +39,7 @@ namespace GustoGlide.Web.Service
                 ApiType = StaticDetails.ApiType.POST,
                 Data = registrationRequestDto,
                 Url = StaticDetails.AuthApiBase + "/api/auth/register"
-            });
+            }, withBearer: false);
         }
     }
 }

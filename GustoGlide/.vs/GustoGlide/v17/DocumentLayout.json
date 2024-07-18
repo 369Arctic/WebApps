@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Git\\WebApps\\GustoGlide\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|solutionrelative:gustoglide.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|solutionrelative:gustoglide.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{877729B7-3398-41A8-BF8D-A3AE6A11439A}|GustoGlide.Services.CouponAPI\\GustoGlide.Services.CouponAPI.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877729B7-3398-41A8-BF8D-A3AE6A11439A}|GustoGlide.Services.CouponAPI\\GustoGlide.Services.CouponAPI.csproj|solutionrelative:gustoglide.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "GustoGlide.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "GustoGlide.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADcAAABbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-17T12:50:05.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "GustoGlide.Web\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "GustoGlide.Web\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAHkAAAAAAAAAAAAiwIkAAAA4AAAA",
+              "Title": "CouponAPIController.cs",
+              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeDocumentMoniker": "GustoGlide.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeToolTip": "GustoGlide.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAcwHUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T12:43:59.905Z",
+              "WhenOpened": "2024-07-18T12:30:44.845Z",
               "EditorCaption": ""
             }
           ]

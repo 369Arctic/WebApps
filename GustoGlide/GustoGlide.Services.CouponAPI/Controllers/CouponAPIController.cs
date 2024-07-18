@@ -2,12 +2,15 @@
 using GustoGlide.Services.CouponAPI.Data;
 using GustoGlide.Services.CouponAPI.Models;
 using GustoGlide.Services.CouponAPI.Models.Dto;
+using GustoGlide.Services.CouponAPI.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GustoGlide.Services.CouponAPI.Controllers
 {
     [Route("api/coupon")]
     [ApiController]
+    [Authorize]
     public class CouponAPIController : ControllerBase
     {
         private readonly AppDbContext _db;
@@ -71,6 +74,7 @@ namespace GustoGlide.Services.CouponAPI.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = StaticDetails.RoleAdmin)]
         public ResponseDto Post([FromBody] CouponDto couponDto)
         {
             try
@@ -90,6 +94,7 @@ namespace GustoGlide.Services.CouponAPI.Controllers
         }
 
         [HttpPut]
+        [Authorize(Roles = StaticDetails.RoleAdmin)]
         public ResponseDto Put([FromBody] CouponDto couponDto)
         {
             try
@@ -110,6 +115,7 @@ namespace GustoGlide.Services.CouponAPI.Controllers
 
         [HttpDelete]
         [Route("{id:int}")]
+        [Authorize(Roles = StaticDetails.RoleAdmin)]
         public ResponseDto Delete(int id)
         {
             try
