@@ -1,0 +1,6 @@
+@GustoGlide.Services.ProductAPI_HostAddress = http://localhost:5118
+
+GET {{GustoGlide.Services.ProductAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

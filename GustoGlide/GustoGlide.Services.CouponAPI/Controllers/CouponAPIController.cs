@@ -45,8 +45,8 @@ namespace GustoGlide.Services.CouponAPI.Controllers
         {
             try
             {
-                Coupon obj = _db.Coupons.First(u => u.CouponId == id);
-                _response.Result = _mapper.Map<CouponDto>(obj); // obj конвертируется в CouponDto
+                Coupon coupon = _db.Coupons.First(u => u.CouponId == id);
+                _response.Result = _mapper.Map<CouponDto>(coupon); // obj конвертируется в CouponDto
             }
             catch (Exception ex)
             {
@@ -62,8 +62,8 @@ namespace GustoGlide.Services.CouponAPI.Controllers
         {
             try
             {
-                Coupon obj = _db.Coupons.First(u => u.CouponCode.ToLower() == code.ToLower());
-                _response.Result = _mapper.Map<CouponDto>(obj); 
+                Coupon coupon = _db.Coupons.First(u => u.CouponCode.ToLower() == code.ToLower());
+                _response.Result = _mapper.Map<CouponDto>(coupon); 
             }
             catch (Exception ex)
             {
@@ -79,11 +79,11 @@ namespace GustoGlide.Services.CouponAPI.Controllers
         {
             try
             {
-                Coupon obj = _mapper.Map<Coupon>(couponDto);
-                _db.Coupons.Add(obj);
+                Coupon coupon = _mapper.Map<Coupon>(couponDto);
+                _db.Coupons.Add(coupon);
                 _db.SaveChanges();
 
-                _response.Result = _mapper.Map<CouponDto>(obj);
+                _response.Result = _mapper.Map<CouponDto>(coupon);
             }
             catch (Exception ex)
             {
@@ -99,11 +99,11 @@ namespace GustoGlide.Services.CouponAPI.Controllers
         {
             try
             {
-                Coupon obj = _mapper.Map<Coupon>(couponDto);
-                _db.Coupons.Update(obj);
+                Coupon coupon = _mapper.Map<Coupon>(couponDto);
+                _db.Coupons.Update(coupon);
                 _db.SaveChanges();
 
-                _response.Result = _mapper.Map<CouponDto>(obj);
+                _response.Result = _mapper.Map<CouponDto>(coupon);
             }
             catch (Exception ex)
             {
@@ -120,8 +120,8 @@ namespace GustoGlide.Services.CouponAPI.Controllers
         {
             try
             {
-                Coupon obj = _db.Coupons.First(u => u.CouponId == id);
-                _db.Coupons.Remove(obj);
+                Coupon coupon = _db.Coupons.First(u => u.CouponId == id);
+                _db.Coupons.Remove(coupon);
                 _db.SaveChanges();
             }
             catch (Exception ex)
