@@ -21,14 +21,17 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
 
 builder.Services.AddHttpClient<ICouponService, CouponService>();
 builder.Services.AddHttpClient<IAuthService, AuthService>();
+builder.Services.AddHttpClient<IProductService, ProductService>();
 
 builder.Services.AddScoped<ITokenProvider, TokenProvider>();
 builder.Services.AddScoped<IBaseService, BaseService>();
 builder.Services.AddScoped<ICouponService, CouponService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<IProductService, ProductService>();
 
 StaticDetails.CouponApiBase = builder.Configuration["ServiceUrls:CouponApi"];
 StaticDetails.AuthApiBase = builder.Configuration["ServiceUrls:AuthApi"];
+StaticDetails.ProductApiBase = builder.Configuration["ServiceUrls:ProductApi"];
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
