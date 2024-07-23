@@ -50,8 +50,7 @@
               "RelativeToolTip": "GustoGlide.Web\\Views\\Product\\ProductEdit.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAkwDQAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T09:44:51.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T09:44:51.325Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "GustoGlide.Web\\Service\\ProductService.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAowDkAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T09:36:42.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T09:36:42.527Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "GustoGlide.Web\\Service\\BaseService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T09:36:34.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T09:36:34.007Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "GustoGlide.Web\\Service\\AuthService.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAowBQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T09:36:04.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T09:36:04.022Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "GustoGlide.Web\\appsettings.json",
               "ViewState": "AQIAAAEAAAAAAAAAAAAgwAsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-21T09:35:18.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T09:35:18.473Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "GustoGlide.Services.AuthAPI\\Properties\\launchSettings.json",
               "ViewState": "AQIAABEAAAAAAAAAAAAgwBoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-21T09:35:10.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T09:35:10.53Z"
             }
           ]
         }

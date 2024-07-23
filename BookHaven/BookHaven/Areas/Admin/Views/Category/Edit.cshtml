@@ -1,0 +1,54 @@
+﻿@model Category
+
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-success-subtle ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-primary py-2">Edit Category</h2>
+            </div>
+        </div>
+    </div>
+
+<form method="post">
+    @* <input asp-for="Id" hidden></input> если в модели имя свойство отличное от id, например, categoryId, 
+        тогда требуется указывать скрытое свойство с этим названием.
+    *@
+    <div class="border p-3 mt-4">
+@*         <div class="row pb-3">
+            <h2 class="text-primary"> Edit category</h2>
+        </div> *@
+        @*<div asp-validation-summary="All"></div>  отображение всех ошибок в одном месте *@
+        <div class="mb-3 row">
+            <label asp-for="Name" class="p-1"></label>
+            <input asp-for="Name" class="form-control"></input>
+            <span asp-validation-for="Name" class="text-bg-secondary"></span> @* Для индивидуальных проверок  *@
+        </div>
+        <div class="mb-3 row ">
+            <label asp-for="DisplayOrder" class="p-1"></label>
+            <input asp-for="DisplayOrder" class="form-control"></input>
+            <span asp-validation-for="DisplayOrder" class="text-bg-secondary"></span>
+        </div>
+
+        <div class="row">
+            <div class="col-6">
+                <button type="submit" class="btn btn-outline-success form-control"> Update</button>
+            </div>
+            <div class="col-6">
+                <a asp-controller="Category" asp-action="Index" class="btn btn-outline-secondary form-control">
+                    Back to List
+                </a>
+            </div>
+        </div>
+        @*         <button type="submit" class="btn btn-primary" style="width:200px" > Create</button> *@
+        @*         <a asp-controller="Category" asp-action="Index" class="btn btn-secondary" style="width:200px" >
+        Back to List
+        </a> *@
+    </div>
+</form>
+</div>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

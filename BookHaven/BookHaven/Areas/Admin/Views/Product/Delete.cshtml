@@ -1,0 +1,71 @@
+﻿@model Product
+
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-success-subtle ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-primary py-2">Delete Product</h2>
+            </div>
+        </div>
+    </div>
+
+
+    <form method="post">
+        @* <input asp-for="Id" hidden></input> если в модели имя свойство отличное от id, например, categoryId,
+        тогда требуется указывать скрытое свойство с этим названием.
+        *@
+        <div class="border p-3 mt-4">
+            @*         <div class="row pb-3">
+            <h2 class="text-primary"> Delete category</h2>
+            </div> *@
+            <div class="mb-3 row">
+                <label asp-for="Name" class="p-1 text-dark"></label>
+                <input asp-for="Name" disabled class="form-control"></input>
+            </div>
+            <div class="mb-3 row ">
+                <label asp-for="Description" class="p-1 text-dark"></label>
+                <textarea asp-for="Description" disabled class="form-control"></textarea>
+            </div>
+            <div class="mb-3 row ">
+                <label asp-for="Author" class="p-1 text-dark"></label>
+                <input asp-for="Author" disabled class="form-control"></input>
+            </div>
+            <div class="mb-3 row ">
+                <label asp-for="ISBN" class="p-1 text-dark"></label>
+                <input asp-for="ISBN" disabled class="form-control"></input>
+            </div>
+            <div class="mb-3 row ">
+                <label asp-for="YearOfPublishing" class="p-1 text-dark"></label>
+                <input asp-for="YearOfPublishing" disabled class="form-control"></input>
+            </div>
+            <div class="mb-3 row ">
+                <label asp-for="ListPrice" class="p-1 text-dark"></label>
+                <input asp-for="ListPrice" disabled class="form-control"></input>
+            </div>
+            <div class="mb-3 row ">
+                <label asp-for="Price" class="p-1 text-dark"></label>
+                <input asp-for="Price" disabled class="form-control"></input>
+            </div>
+            <div class="mb-3 row ">
+                <label asp-for="Price50" class="p-1 text-dark"></label>
+                <input asp-for="Price50" disabled class="form-control"></input>
+            </div>
+
+            <div class="row">
+                <div class="col-6">
+                    <button type="submit" class="btn btn-outline-danger form-control"> Delete</button>
+                </div>
+                <div class="col-6">
+                    <a asp-controller="Product" asp-action="Index" class="btn btn-outline-secondary form-control">
+                        Back to List
+                    </a>
+                </div>
+            </div>
+            @*         <button type="submit" class="btn btn-primary" style="width:200px" > Create</button> *@
+            @*         <a asp-controller="Category" asp-action="Index" class="btn btn-secondary" style="width:200px" >
+            Back to List
+            </a> *@
+        </div>
+    </form>
+</div>
+

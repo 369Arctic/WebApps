@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BookHaven\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F783AC83-2132-4509-8FF0-CCD651D43D16}|BookHaven\\BookHaven.csproj|d:\\bookhaven\\bookhaven\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F783AC83-2132-4509-8FF0-CCD651D43D16}|BookHaven\\BookHaven.csproj|solutionrelative:bookhaven\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F783AC83-2132-4509-8FF0-CCD651D43D16}|BookHaven\\BookHaven.csproj|d:\\bookhaven\\bookhaven\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F783AC83-2132-4509-8FF0-CCD651D43D16}|BookHaven\\BookHaven.csproj|solutionrelative:bookhaven\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BookHaven\\BookHaven\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookHaven\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\BookHaven\\BookHaven\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "BookHaven\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T13:26:18.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "D:\\BookHaven\\BookHaven\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeDocumentMoniker": "BookHaven\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ToolTip": "D:\\BookHaven\\BookHaven\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeToolTip": "BookHaven\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T13:25:31.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

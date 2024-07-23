@@ -1,0 +1,44 @@
+﻿<div class="container">
+    <div class="col-4 pt-4">
+        <!-- Category buttons -->
+        <div class="categories">
+            <button class="btn btn-primary filter-button text-dark" data-filter="all">All</button>
+            @foreach (var obj in Model.Categories)
+            {
+                <button class="btn btn-primary filter-button text-dark" data-filter="@obj.Name.Replace(' ', '_')">
+                    @obj.Name
+                </button>
+            }
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="pt-3">
+        <!-- Product rows -->
+        <div class="row">
+            @foreach (var product in Model.Products)
+            {
+                <div class="col-md-4 filter @product.Category.Name.Replace(' ', '_') show">
+                    <partial name="_IndividualProductCard" model="product"></partial>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $(".filter-button").click(function () {
+                var value = $(this).attr('data-filter');
+                if (value == "all") {
+                    $('.filter').show('1000');
+                } else {
+                    $(".filter").not('.' + value).hide('3000');
+                    $('.filter').filter('.' + value).show('3000');
+                }
+            });
+        });
+    </script>
+}

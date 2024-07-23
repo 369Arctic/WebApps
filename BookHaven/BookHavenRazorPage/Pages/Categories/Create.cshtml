@@ -1,0 +1,42 @@
+﻿@page
+@model BookHavenRazorPage.Pages.Categories.CreateModel
+
+<form method="post">
+    <div class="border p-3 mt-4">
+        <div class="row pb-3">
+            <h2 class="text-primary"> Create category</h2>
+        </div>
+        @*<div asp-validation-summary="All"></div>  отображение всех ошибок в одном месте *@
+        <div class="mb-3 row">
+            <label asp-for="Category.Name" class="p-1"></label>
+            <input asp-for="Category.Name" class="form-control"></input>
+            <span asp-validation-for="Category.Name" class="text-bg-secondary"></span> @* Для индивидуальных проверок  *@
+        </div>
+        <div class="mb-3 row ">
+            <label asp-for="Category.DisplayOrder" class="p-1"></label>
+            <input asp-for="Category.DisplayOrder" class="form-control"></input>
+            <span asp-validation-for="Category.DisplayOrder" class="text-bg-secondary"></span>
+        </div>
+
+        <div class="row">
+            <div class="col-6">
+                <button type="submit" class="btn btn-outline-success form-control"> Create</button>
+            </div>
+            <div class="col-6">
+                <a asp-page="/Categories/Index" class="btn btn-outline-secondary form-control">
+                    Back to List
+                </a>
+            </div>
+        </div>
+        @*         <button type="submit" class="btn btn-primary" style="width:200px" > Create</button> *@
+        @*         <a asp-controller="Category" asp-action="Index" class="btn btn-secondary" style="width:200px" >
+        Back to List
+        </a> *@
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
