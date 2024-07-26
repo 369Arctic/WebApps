@@ -1,0 +1,6 @@
+@GustoGlide.Services.ShoppingCart_HostAddress = http://localhost:5074
+
+GET {{GustoGlide.Services.ShoppingCart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

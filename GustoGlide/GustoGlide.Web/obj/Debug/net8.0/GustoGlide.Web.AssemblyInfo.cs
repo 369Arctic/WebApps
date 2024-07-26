@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GustoGlide.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b68ffaa5232ee7cdd1d0b9f76dbc1af5d65302cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ea2a4d3939ac61d25cb61c7291072aa0af987ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("GustoGlide.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GustoGlide.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

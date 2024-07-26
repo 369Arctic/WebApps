@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GustoGlide.Web", "GustoGlid
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GustoGlide.Services.AuthAPI", "GustoGlide.Services.AuthAPI\GustoGlide.Services.AuthAPI.csproj", "{D40059C8-3F08-4BBE-92B3-78E3361C7F5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GustoGlide.Services.ProductAPI", "GustoGlide.Services.ProductAPI\GustoGlide.Services.ProductAPI.csproj", "{4AF9B602-24CE-4827-8F82-F86E3D3F260C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GustoGlide.Services.ProductAPI", "GustoGlide.Services.ProductAPI\GustoGlide.Services.ProductAPI.csproj", "{4AF9B602-24CE-4827-8F82-F86E3D3F260C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GustoGlide.Services.ShoppingCartAPI", "GustoGlide.Services.ShoppingCart\GustoGlide.Services.ShoppingCartAPI.csproj", "{B0FDF729-7379-4515-84D6-4E5A22898765}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,10 @@ Global
 		{4AF9B602-24CE-4827-8F82-F86E3D3F260C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AF9B602-24CE-4827-8F82-F86E3D3F260C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AF9B602-24CE-4827-8F82-F86E3D3F260C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0FDF729-7379-4515-84D6-4E5A22898765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FDF729-7379-4515-84D6-4E5A22898765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FDF729-7379-4515-84D6-4E5A22898765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FDF729-7379-4515-84D6-4E5A22898765}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +56,7 @@ Global
 		{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319} = {B6023EF8-9A76-4F4C-9D93-29C72E8CC65B}
 		{D40059C8-3F08-4BBE-92B3-78E3361C7F5A} = {14215067-C344-4203-A1F5-B3A15F25AE50}
 		{4AF9B602-24CE-4827-8F82-F86E3D3F260C} = {14215067-C344-4203-A1F5-B3A15F25AE50}
+		{B0FDF729-7379-4515-84D6-4E5A22898765} = {14215067-C344-4203-A1F5-B3A15F25AE50}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {19C29FD1-94EC-4934-A1F4-3B94F5A30340}

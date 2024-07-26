@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iIeicfEma4bAXckInnpVXrSkG3ejhnipaHtihNTFisM=",
+  "Source": "GustoGlide.Services.ShoppingCartAPI",
+  "BasePath": "_content/GustoGlide.Services.ShoppingCartAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

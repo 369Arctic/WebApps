@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\Git\\WebApps\\GustoGlide\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.web\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|solutionrelative:gustoglide.web\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{877729B7-3398-41A8-BF8D-A3AE6A11439A}|GustoGlide.Services.CouponAPI\\GustoGlide.Services.CouponAPI.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877729B7-3398-41A8-BF8D-A3AE6A11439A}|GustoGlide.Services.CouponAPI\\GustoGlide.Services.CouponAPI.csproj|solutionrelative:gustoglide.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.web\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|solutionrelative:gustoglide.web\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B0FDF729-7379-4515-84D6-4E5A22898765}|GustoGlide.Services.ShoppingCart\\GustoGlide.Services.ShoppingCartAPI.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.services.shoppingcart\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FDF729-7379-4515-84D6-4E5A22898765}|GustoGlide.Services.ShoppingCart\\GustoGlide.Services.ShoppingCartAPI.csproj|solutionrelative:gustoglide.services.shoppingcart\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.web\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|solutionrelative:gustoglide.web\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B0FDF729-7379-4515-84D6-4E5A22898765}|GustoGlide.Services.ShoppingCart\\GustoGlide.Services.ShoppingCartAPI.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.services.shoppingcart\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FDF729-7379-4515-84D6-4E5A22898765}|GustoGlide.Services.ShoppingCart\\GustoGlide.Services.ShoppingCartAPI.csproj|solutionrelative:gustoglide.services.shoppingcart\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.web\\views\\product\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1A1BDED-6FF3-47A9-BBE2-54C36AA02319}|GustoGlide.Web\\GustoGlide.Web.csproj|solutionrelative:gustoglide.web\\views\\product\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B0FDF729-7379-4515-84D6-4E5A22898765}|GustoGlide.Services.ShoppingCart\\GustoGlide.Services.ShoppingCartAPI.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.services.shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FDF729-7379-4515-84D6-4E5A22898765}|GustoGlide.Services.ShoppingCart\\GustoGlide.Services.ShoppingCartAPI.csproj|solutionrelative:gustoglide.services.shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FDF729-7379-4515-84D6-4E5A22898765}|GustoGlide.Services.ShoppingCart\\GustoGlide.Services.ShoppingCartAPI.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.services.shoppingcart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0FDF729-7379-4515-84D6-4E5A22898765}|GustoGlide.Services.ShoppingCart\\GustoGlide.Services.ShoppingCartAPI.csproj|solutionrelative:gustoglide.services.shoppingcart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FDF729-7379-4515-84D6-4E5A22898765}|GustoGlide.Services.ShoppingCart\\GustoGlide.Services.ShoppingCartAPI.csproj|d:\\git\\webapps\\gustoglide\\gustoglide.services.shoppingcart\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FDF729-7379-4515-84D6-4E5A22898765}|GustoGlide.Services.ShoppingCart\\GustoGlide.Services.ShoppingCartAPI.csproj|solutionrelative:gustoglide.services.shoppingcart\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductDelete.cshtml",
-              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Views\\Product\\ProductDelete.cshtml",
-              "RelativeDocumentMoniker": "GustoGlide.Web\\Views\\Product\\ProductDelete.cshtml",
-              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Views\\Product\\ProductDelete.cshtml",
-              "RelativeToolTip": "GustoGlide.Web\\Views\\Product\\ProductDelete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T07:29:59.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductEdit.cshtml",
-              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Views\\Product\\ProductEdit.cshtml",
-              "RelativeDocumentMoniker": "GustoGlide.Web\\Views\\Product\\ProductEdit.cshtml",
-              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Views\\Product\\ProductEdit.cshtml",
-              "RelativeToolTip": "GustoGlide.Web\\Views\\Product\\ProductEdit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T07:27:49.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductCreate.cshtml",
-              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Views\\Product\\ProductCreate.cshtml",
-              "RelativeDocumentMoniker": "GustoGlide.Web\\Views\\Product\\ProductCreate.cshtml",
-              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Views\\Product\\ProductCreate.cshtml",
-              "RelativeToolTip": "GustoGlide.Web\\Views\\Product\\ProductCreate.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADMAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T07:27:36.321Z",
+              "Title": "CartAPIController.cs",
+              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.ShoppingCart\\Controllers\\CartAPIController.cs",
+              "RelativeDocumentMoniker": "GustoGlide.Services.ShoppingCart\\Controllers\\CartAPIController.cs",
+              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.ShoppingCart\\Controllers\\CartAPIController.cs",
+              "RelativeToolTip": "GustoGlide.Services.ShoppingCart\\Controllers\\CartAPIController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwCYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T10:27:25.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductIndex.cshtml",
-              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Views\\Product\\ProductIndex.cshtml",
-              "RelativeDocumentMoniker": "GustoGlide.Web\\Views\\Product\\ProductIndex.cshtml",
-              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\Views\\Product\\ProductIndex.cshtml",
-              "RelativeToolTip": "GustoGlide.Web\\Views\\Product\\ProductIndex.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T06:45:20.632Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.ShoppingCart\\Program.cs",
+              "RelativeDocumentMoniker": "GustoGlide.Services.ShoppingCart\\Program.cs",
+              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.ShoppingCart\\Program.cs",
+              "RelativeToolTip": "GustoGlide.Services.ShoppingCart\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T10:00:52.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.ShoppingCart\\appsettings.json",
+              "RelativeDocumentMoniker": "GustoGlide.Services.ShoppingCart\\appsettings.json",
+              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.ShoppingCart\\appsettings.json",
+              "RelativeToolTip": "GustoGlide.Services.ShoppingCart\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T10:00:36.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CouponAPIController.cs",
+              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeDocumentMoniker": "GustoGlide.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeToolTip": "GustoGlide.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T09:59:19.308Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.ShoppingCart\\Service\\CouponService.cs",
+              "RelativeDocumentMoniker": "GustoGlide.Services.ShoppingCart\\Service\\CouponService.cs",
+              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.ShoppingCart\\Service\\CouponService.cs",
+              "RelativeToolTip": "GustoGlide.Services.ShoppingCart\\Service\\CouponService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAnwAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T09:57:31.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICouponService.cs",
+              "DocumentMoniker": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.ShoppingCart\\Service\\IService\\ICouponService.cs",
+              "RelativeDocumentMoniker": "GustoGlide.Services.ShoppingCart\\Service\\IService\\ICouponService.cs",
+              "ToolTip": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Services.ShoppingCart\\Service\\IService\\ICouponService.cs",
+              "RelativeToolTip": "GustoGlide.Services.ShoppingCart\\Service\\IService\\ICouponService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T09:56:01.935Z"
             }
           ]
         }
