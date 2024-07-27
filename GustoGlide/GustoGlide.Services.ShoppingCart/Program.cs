@@ -4,6 +4,7 @@ using GustoGlide.Services.ShoppingCartAPI.Data;
 using GustoGlide.Services.ShoppingCartAPI.Extensions;
 using GustoGlide.Services.ShoppingCartAPI.Service;
 using GustoGlide.Services.ShoppingCartAPI.Service.IService;
+using GustoGlide.Services.ShoppingCartAPI.Utility;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
@@ -24,10 +25,13 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICouponService, CouponService>();
 
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddScoped<BackendApiAuthenticationHttpClientHandler>();
+
 builder.Services.AddHttpClient("Product", u =>
-                u.BaseAddress = new Uri(builder.Configuration["ServiceUrls:ProductApi"]));
+                u.BaseAddress = new Uri(builder.Configuration["ServiceUrls:ProductApi"])).AddHttpMessageHandler<BackendApiAuthenticationHttpClientHandler>();
 builder.Services.AddHttpClient("Coupon", u =>
-                u.BaseAddress = new Uri(builder.Configuration["ServiceUrls:CouponApi"]));
+                u.BaseAddress = new Uri(builder.Configuration["ServiceUrls:CouponApi"])).AddHttpMessageHandler<BackendApiAuthenticationHttpClientHandler>();
 
 
 builder.Services.AddControllers();

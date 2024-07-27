@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6/zCJpQDZ8o=",
+  "dgSpecHash": "IoibOjQkvbs=",
   "success": true,
   "projectFilePath": "D:\\Git\\WebApps\\GustoGlide\\GustoGlide.Web\\GustoGlide.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Виктор\\.nuget\\packages\\identitymodel\\7.0.0\\identitymodel.7.0.0.nupkg.sha512",
     "C:\\Users\\Виктор\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
     "C:\\Users\\Виктор\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
     "C:\\Users\\Виктор\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.2\\microsoft.identitymodel.logging.7.1.2.nupkg.sha512",

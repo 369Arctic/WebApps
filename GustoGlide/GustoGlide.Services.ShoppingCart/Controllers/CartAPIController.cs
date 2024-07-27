@@ -10,6 +10,7 @@ namespace GustoGlide.Services.ShoppingCartAPI.Controllers
 {
     [Route("api/cart")]
     [ApiController]
+
     public class CartAPIController : ControllerBase
     {
         private AppDbContext _db;
@@ -108,6 +109,7 @@ namespace GustoGlide.Services.ShoppingCartAPI.Controllers
             }
             return _response;
         }
+
 
         // 1) User adds first item to the Cart
         //    -- Create Cart Header
